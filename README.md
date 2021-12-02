@@ -19,7 +19,7 @@
 </h2>
 
 <div align="center">
-  <a href="https://github.com/lucasbjpereira">
+  <a href="https://github.com/lucasbjpereira" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbjpereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbjpereira&layout=compact&langs_count=7&theme=dracula"/>
    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasbjpereira&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
