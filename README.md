@@ -51,7 +51,7 @@
 </a>
   <a href="https://www.instagram.com/luscas.pereira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <br/><br/>
-  <h2 align="center"> Meus Gráficos de Contribuição
+  <h2 align="center"> Contribuições
     <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
     </h2>
  <p align = "center">
