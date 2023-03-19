@@ -58,10 +58,6 @@
      <img src="https://github.com/lucasbjpereira/lucasbjpereira/blob/output/github-contribution-grid-snake.svg">
  </p>
 </div>
-<p align = "center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=lucasbjpereira&theme=redical">
-</p>
-
 <h2 align="center">
   Um Pouco de Musíca<img src="https://media3.giphy.com/media/h4NzkyFOM1ZsRw9xeS/giphy.gif" width="50">
 </h2>
