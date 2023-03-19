@@ -2,14 +2,6 @@
      alt="Welcome" />
 
 <p align="center">
-
- <img src="https://badges.pufler.dev/visits/lucasbjpereira/lucasbjpereira"/> 
- <img src="https://badges.pufler.dev/years/lucasbjpereira"/>
- <img src="https://badges.pufler.dev/repos/lucasbjpereira"/>
- <img src="https://badges.pufler.dev/commits/monthly/lucasbjpereira" />
-</p>
-
-<p align="center">
      Desenvolvedor Web, com formações de Informática para Internet na ETEC, e Design Gráfico. Atualmente faço graduação 🎓 em Engenharia da Computação. Sempre me dediquei aos estudos pois amo demais essa área de tecnologia, por isso estou sempre me aprofundando em aprender coisas novas, principalmente estudando sobre inovações atuais 🖥️, e assim, evoluir meus conhecimentos cada vez mais!
      No meu tempo livre gosto muito de criar coisas novas, sendo mini-projetos ou apenas tendo conhecimentos prévios sobre novas tecnologias 👨‍💻.
 </p>
