@@ -2,8 +2,13 @@
      alt="Welcome" />
 
 <p align="center">
-     Desenvolvedor Web, com formações de Informática para Internet na ETEC, e Design Gráfico. Atualmente faço graduação 🎓 em Engenharia da Computação. Sempre me dediquei aos estudos pois amo demais essa área de tecnologia, por isso estou sempre me aprofundando em aprender coisas novas, principalmente estudando sobre inovações atuais 🖥️, e assim, evoluir meus conhecimentos cada vez mais!
-     No meu tempo livre gosto muito de criar coisas novas, sendo mini-projetos ou apenas tendo conhecimentos prévios sobre novas tecnologias 👨‍💻.
+    🌟 Olá, eu sou o Lucas, um desenvolvedor apaixonado por tecnologia! 😄
+
+Comecei minha carreira como front-end, mergulhando em diversas linguagens e plataformas. Depois, fui promovido a líder técnico da equipe, onde aprendi muito sobre liderança e visão estratégica. 🚀
+
+Atualmente, estou na área de inovação, guiando projetos criativos e avançados! 💡✨ Sou movido pela paixão por desafios e inovação, sempre em busca de novas tecnologias e soluções criativas para problemas complexos. 💪🔍
+
+Acredito na aprendizagem contínua para me manter competitivo em um setor em constante mudança! 📚🔄 Estou empolgado para novas oportunidades e para colaborar com equipes que valorizam inovação e excelência no desenvolvimento de software! 🚀🌈
 </p>
 
 <h2 align="center">
